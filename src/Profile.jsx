@@ -12,7 +12,6 @@ class Profile extends Component {
     //   artist = this.props.artist;
     // }
 
-
     return (
       <div className="profile">
         <img
